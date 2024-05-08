@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "20b3ae363a7d0995",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cec2569e93e40c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc811614eff4614d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/GD-CI-AP2627T/Onvif 2 Windows INT/embeddedStorageCompatibility.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7cf75ae5fe31b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "411 T.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8afb017b1a83b088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81520bd65f78cf7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "564496af57040c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "t320.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26488f3b763700ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "399.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bb77537a1728f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "t70.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bf13859f863330d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "t63.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "724038bd74f98ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "t64.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87f0dfff1eb77c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "t391.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cefa8a0c55f447d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d0fca8f7032fd37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "193704e7805fe9a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d3feaddcd758a77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4abea58783ff3f53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5
+  },
+  "right": {
+    "id": "d7c51acfaf1fa9e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c4456c87bd4c360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c469fdeb87a99c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "t391.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f50b38062d6e4f25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "t391.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88189db6e99f9890",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "adc3ea7010e21da6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "t391.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "87f0dfff1eb77c7d",
+  "lastOpenFiles": [
+    "t64.md",
+    "t391.md",
+    "t63.md",
+    "t70.md",
+    "399.md",
+    "t320.md",
+    "T22.md",
+    "T21.md",
+    "411 T.md",
+    "Testing/GD-CI-AP2627T/Onvif 2 Windows INT/embeddedStorageCompatibility.md",
+    "Testing/GD-CI-AP2627T/ONVIF Linux AN/Не получается подключиться по HTTPS.md",
+    "Testing/GD-CI-AP2627T/ONVIF Linux AN/Некорректные настройки по умолчанию.md",
+    "Testing/GD-CI-AP2627T/ONVIF Linux AN/Мерцания изображения при включении NTSC.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Не работает обратное воспроизведение h264.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Не отключается реле.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Не меняется скорость воспроизведения H264.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Не выделяются даты  с записями архива в календаре.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Дублируются настройки потоков.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Архив не воспроизводится кодек h265.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Не работает репликация по требованию.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Неправильная дата сработок.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Отсутствует кнопка автофокуса.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Отсутствует звук.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Некорректные настройки по умолчанию.md",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN/Не создаются профиль при параметре compatibilityMode=0.md",
+    "Testing/GD-CI-AP2627T/Не отключается реле.md",
+    "video/bandicam 2024-05-07 12-17-05-322.mp4",
+    "Testing/GD-CI-AP2627T/ONVIF Linux AN",
+    "img/Pasted image 20240506131551.png",
+    "img/Pasted image 20240506113446.png",
+    "img/Pasted image 20240506094933.png",
+    "video",
+    "video/bandicam 2024-05-06 09-24-18-988.mp4",
+    "img/2024-05-03_132133.png",
+    "Testing/GD-CI-AP2627T/ONVIF Windows AN",
+    "2024-04-27_172940.png",
+    "Без названия.canvas",
+    "img/Pasted image 20240503093230.png",
+    "img/Pasted image 20240503092048.png",
+    "Testing/GD-CI-AP2627T/Onvif 2 Windows INT",
+    "img/Pasted image 20240502130130.png",
+    "img/Pasted image 20240502103911.png",
+    "Testing/GD-CI-AP2627T/Onvif 2 Windows AN",
+    "img/Pasted image 20240502100930.png",
+    "img",
+    "Testing/GD-CI-AP2627T",
+    "Testing"
+  ]
+}
